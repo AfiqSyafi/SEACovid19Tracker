@@ -1,0 +1,4 @@
+@baseUrl = https://covid-19.dataflowkit.com/v1
+
+GET {{baseUrl}}/Malaysia
+
